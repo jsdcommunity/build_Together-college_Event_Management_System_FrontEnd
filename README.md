@@ -7,7 +7,6 @@
     ```
 
 3. Run the server
-    1. In production mode.
     ```
     npm start
     ```
